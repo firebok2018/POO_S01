@@ -1,0 +1,10 @@
+D:\POO_S1\POO_S01\POO_S01\bin\Debug\POO_S01.exe.config
+D:\POO_S1\POO_S01\POO_S01\bin\Debug\POO_S01.exe
+D:\POO_S1\POO_S01\POO_S01\bin\Debug\POO_S01.pdb
+D:\POO_S1\POO_S01\POO_S01\obj\Debug\POO_S01.csprojAssemblyReference.cache
+D:\POO_S1\POO_S01\POO_S01\obj\Debug\POO_S01.Properties.Resources.resources
+D:\POO_S1\POO_S01\POO_S01\obj\Debug\POO_S01.csproj.GenerateResource.cache
+D:\POO_S1\POO_S01\POO_S01\obj\Debug\POO_S01.csproj.CoreCompileInputs.cache
+D:\POO_S1\POO_S01\POO_S01\obj\Debug\POO_S01.exe
+D:\POO_S1\POO_S01\POO_S01\obj\Debug\POO_S01.pdb
+D:\POO_S1\POO_S01\POO_S01\obj\Debug\POO_S01.Form1.resources
